@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "a09ef6815cef20a174d8e5a510bb7da9",
+  "assets/AssetManifest.json": "cc4289f8badc0b32dd889d8488004134",
 "assets/assets/images/appointments.png": "9cdf3e3819d0709692414c0e7fa2a60d",
 "assets/assets/images/articles.png": "5246099c8b28c669c43438e968306f5d",
 "assets/assets/images/calendar.png": "0b4c567af9be1f80c5c8a735dec8cac9",
@@ -13,6 +13,7 @@ const RESOURCES = {
 "assets/assets/images/doctor.jpg": "a7107da7da7dc256000a954133e0e297",
 "assets/assets/images/documents.png": "c34cd2b21fb2490a7322875f168353f1",
 "assets/assets/images/eye-check-outline.png": "5759b9f6cf8c9719c23da7bfc09ecd26",
+"assets/assets/images/home.png": "aab4bbc65c03421f24b2d53f90dff10f",
 "assets/assets/images/icon.png": "486e0d1cd60a0ece9dbc3cc9c37859ec",
 "assets/assets/images/medication.png": "f514cca022734ac53e57b5fdde0573cf",
 "assets/assets/images/message-arrow-right-outline.png": "066fecd5688880cf7648af7d54af5ab7",
@@ -34,9 +35,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "cddd81f505d86c9ed8a2d24f2456b6c8",
-"/": "cddd81f505d86c9ed8a2d24f2456b6c8",
-"main.dart.js": "e0a077589ed3b6a5f4881f046f385e43",
+"index.html": "1a92e07cf13c2bcf989ea6234dc1cc09",
+"/": "1a92e07cf13c2bcf989ea6234dc1cc09",
+"main.dart.js": "9d3dc6823a679a58b33c5be937267751",
 "manifest.json": "b9d67de67b029f71ed152184a05f1655",
 "version.json": "2c2188f5239d50c0a8b1a2c5c8b552c7"
 };
