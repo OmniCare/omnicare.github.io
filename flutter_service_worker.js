@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "cc4289f8badc0b32dd889d8488004134",
+  "assets/AssetManifest.json": "43fd25151c1b753a66f655518c8a69fc",
 "assets/assets/images/appointments.png": "9cdf3e3819d0709692414c0e7fa2a60d",
 "assets/assets/images/articles.png": "5246099c8b28c669c43438e968306f5d",
 "assets/assets/images/calendar.png": "0b4c567af9be1f80c5c8a735dec8cac9",
@@ -17,6 +17,7 @@ const RESOURCES = {
 "assets/assets/images/icon.png": "486e0d1cd60a0ece9dbc3cc9c37859ec",
 "assets/assets/images/medication.png": "f514cca022734ac53e57b5fdde0573cf",
 "assets/assets/images/message-arrow-right-outline.png": "066fecd5688880cf7648af7d54af5ab7",
+"assets/assets/images/omni-logo.jpg": "e4708ce1255d7130c51a8b00ba286047",
 "assets/assets/images/symptoms.png": "fd60d70b648dba35c732e54ef62d718d",
 "assets/assets/images/tempAlert.png": "bbc4f822439300e859fc805e9e472974",
 "assets/assets/images/vitals.png": "546c2a436e2d7835a0a591e52d70749b",
@@ -35,9 +36,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "205ebe7ac8e2f7fe9613b526fb06c974",
-"/": "205ebe7ac8e2f7fe9613b526fb06c974",
-"main.dart.js": "ebfeb479a2708705786f939001e995f2",
+"index.html": "636d097e571be0e5e738323ccfbf6f22",
+"/": "636d097e571be0e5e738323ccfbf6f22",
+"main.dart.js": "ad5c221306bc005c9e47b340a9468011",
 "manifest.json": "b9d67de67b029f71ed152184a05f1655",
 "version.json": "2c2188f5239d50c0a8b1a2c5c8b552c7"
 };
