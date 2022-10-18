@@ -3,15 +3,30 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "9aecb1183d48f2ced2aa842428abe0cf",
-"assets/assets/images/ben-parker-OhKElOkQ3RE-unsplash.jpg": "a1f1c069912631cc519a1fe3416c9891",
-"assets/assets/images/blueArrow.png": "f6f989d1dcd2d434ede8ffe5af460b30",
-"assets/assets/images/call.png": "4f491014f33d25a7f6d26533bfced147",
+  "assets/AssetManifest.json": "10c6d5ebee4da64128069de6516d1080",
+"assets/assets/images/appointments.png": "9cdf3e3819d0709692414c0e7fa2a60d",
+"assets/assets/images/articles.png": "5246099c8b28c669c43438e968306f5d",
+"assets/assets/images/calendar.png": "0b4c567af9be1f80c5c8a735dec8cac9",
+"assets/assets/images/check-circle-outline.png": "abde2de561adda90fd2f38b020c2385d",
+"assets/assets/images/contacts.png": "12cf8064d96acf43fb14f37298343868",
+"assets/assets/images/Deepak-Samson-477.jpg": "1f14c84f84298f5fe53b6f3076ff52dd",
+"assets/assets/images/doctor.jpg": "a7107da7da7dc256000a954133e0e297",
+"assets/assets/images/documents.png": "c34cd2b21fb2490a7322875f168353f1",
+"assets/assets/images/eye-check-outline.png": "5759b9f6cf8c9719c23da7bfc09ecd26",
+"assets/assets/images/home.png": "aab4bbc65c03421f24b2d53f90dff10f",
+"assets/assets/images/icon.png": "486e0d1cd60a0ece9dbc3cc9c37859ec",
 "assets/assets/images/jurica-koletic-7YVZYZeITc8-unsplash.jpg": "77e3a1a9649be7edee712a8e0c948f44",
-"assets/assets/images/messaging.png": "cb09e7735f793a1f9a08970320e42fd1",
+"assets/assets/images/medication.png": "f514cca022734ac53e57b5fdde0573cf",
+"assets/assets/images/message-arrow-right-outline.png": "066fecd5688880cf7648af7d54af5ab7",
+"assets/assets/images/omni-logo.jpg": "e4708ce1255d7130c51a8b00ba286047",
+"assets/assets/images/OMNI-transparent.png": "de0fe9f36d0c7c76af84f9e965e3a9f9",
+"assets/assets/images/symptoms.png": "fd60d70b648dba35c732e54ef62d718d",
+"assets/assets/images/tempAlert.png": "bbc4f822439300e859fc805e9e472974",
+"assets/assets/images/vitals.png": "546c2a436e2d7835a0a591e52d70749b",
+"assets/assets/images/yoga.png": "7ac5dd13170863801f74c8da27e605c2",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/fonts/MaterialIcons-Regular.otf": "95db9098c58fd6db106f1116bae85a0b",
-"assets/NOTICES": "2d7236aca695ba4cd213a3478e55d740",
+"assets/NOTICES": "f2481ef2f0a839670c731398acfc6b26",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
 "canvaskit/canvaskit.js": "c2b4e5f3d7a3d82aed024e7249a78487",
 "canvaskit/canvaskit.wasm": "4b83d89d9fecbea8ca46f2f760c5a9ba",
@@ -23,11 +38,11 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "ac9a5caf5c3e3ad530678e6cb4622950",
-"/": "ac9a5caf5c3e3ad530678e6cb4622950",
-"main.dart.js": "e5640d82d6e0133983d1b6b3b14e04d3",
-"manifest.json": "efe7dcecb28c1fb2a9236323c3fc186a",
-"version.json": "2cd67419b7e473781e47fe7aea4f1c37"
+"index.html": "ab4e69a3c60ebf36a4e5f2436aa7a9f0",
+"/": "ab4e69a3c60ebf36a4e5f2436aa7a9f0",
+"main.dart.js": "0bb0457764a508ec89f8489c43f2c9b6",
+"manifest.json": "b9d67de67b029f71ed152184a05f1655",
+"version.json": "2c2188f5239d50c0a8b1a2c5c8b552c7"
 };
 
 // The application shell files that are downloaded before a service worker can

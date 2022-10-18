@@ -1,6 +1,6 @@
 {
-    "name": "omni_web",
-    "short_name": "omni_web",
+    "name": "omni",
+    "short_name": "omni",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
